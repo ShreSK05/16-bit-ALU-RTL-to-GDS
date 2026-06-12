@@ -1,0 +1,6 @@
+{
+  "DESIGN_NAME":"alu",
+  "VERILOG_FILES":"dir::src/alu.v",
+  "CLOCK_PORT":"",
+  "CLOCK_PERIOD":10
+}
